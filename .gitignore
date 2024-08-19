@@ -1,0 +1,5 @@
+# gitignore for bsa6d
+
+./*.o
+./Build/RELEASE/bsa6d
+./Build/DEBUG/bsa6d
